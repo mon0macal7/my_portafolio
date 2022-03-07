@@ -1,7 +1,7 @@
 {
   "name": "my-portafolio",
   "version": "0.1.0",
-  "homepage": "https://mon0macal7/github.io/my_portafolio",
+  "homepage": "https://mon0macal7.github.io/my_portafolio/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.1",
