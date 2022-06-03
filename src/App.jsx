@@ -1,9 +1,14 @@
 import React from "react";
 
-//import NavBar from "./components/NavBar/NavBar";
-
-function App() {
-  return <h1>Monofolio</h1>;
-}
+// import components
+import Header from "./components/header/Header";
+const App = () => {
+  return (
+    <div>
+      <Header />
+      <div style={{ height: "2000px" }}></div>
+    </div>
+  );
+};
 
 export default App;
